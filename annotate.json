@@ -1,0 +1,87 @@
+{
+    "1.mp4": [
+      {
+        "start_frame": "0",
+        "end_frame": "133",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "Hello"
+      },
+      {
+        "start_frame": "134",
+        "end_frame": "139",
+        "action_type": "click",
+        "down_coordinate": [2350, 1162],
+        "up_coordinate": [2350, 1162],
+        "type_word": null
+      },
+      {
+        "start_frame": "326",
+        "end_frame": "330",
+        "action_type": "click",
+        "down_coordinate": [288, 940],
+        "up_coordinate": [288, 940],
+        "type_word": null
+      },
+      {
+        "start_frame": "464",
+        "end_frame": "551",
+        "action_type": "swipe",
+        "down_coordinate": [1533, 1210],
+        "up_coordinate": [1742, 733],
+        "type_word": null
+      },
+      {
+        "start_frame": "650",
+        "end_frame": "693",
+        "action_type": "swipe",
+        "down_coordinate": [1742, 733],
+        "up_coordinate": [1348, 1255],
+        "type_word": null
+      }
+    ],
+    "2.mp4": [
+      {
+        "start_frame": "69",
+        "end_frame": "232",
+        "action_type": "swipe",
+        "down_coordinate": [1700, 1227],
+        "up_coordinate": [1936, 315],
+        "type_word": null
+      },
+      {
+        "start_frame": "393",
+        "end_frame": "411",
+        "action_type": "click",
+        "down_coordinate": [513, 501],
+        "up_coordinate": [513, 501],
+        "type_word": null
+      },
+      {
+        "start_frame": "709",
+        "end_frame": "891",
+        "action_type": "swipe",
+        "down_coordinate": [1660, 1265],
+        "up_coordinate": [1812, 477],
+        "type_word": null
+      },
+      {
+        "start_frame": "1076",
+        "end_frame": "1231",
+        "action_type": "swipe",
+        "down_coordinate": [1812, 477],
+        "up_coordinate": [1676, 1342],
+        "type_word": null
+      },
+      {
+        "start_frame": "1392",
+        "end_frame": "1404",
+        "action_type": "click",
+        "down_coordinate": [62, 135],
+        "up_coordinate": [62, 135],
+        "type_word": null
+      }
+    ]
+  }
+  
